@@ -95,6 +95,10 @@ Tenho me dedicado ao desenvolvimento de aplicações fullstack, com foco em tecn
 Aplicativo desenvolvido em **React Native + Expo**, com login, splash screen e navegação entre telas.  
 Projeto criado como desafio técnico para consolidar fundamentos de autenticação, navegação e boas práticas em aplicativos mobile.
 
+#### 📱 [SafeZone Mobile – Monitoramento de Enchentes](https://github.com/camargoogui/SafeZone-Mobile)
+Versão mobile do sistema SafeZone, desenvolvida com React Native + Expo, que exibe em tempo real o status de alagamento de uma região com base em dados enviados por sensores IoT.
+Utiliza comunicação via MQTT, gráficos e indicadores visuais para informar o nível da água e possíveis alertas.
+
 #### 🐾 [Adota Pet - Aplicativo de Adoção de Animais](https://github.com/camargoogui/PETS-MOBILE)
 Aplicativo mobile desenvolvido com **React Native + Expo**, que conecta pessoas interessadas em adotar com pets que precisam de um lar.  
 O app também fornece dicas de cuidado animal e informações sobre adoção responsável, com interface acessível e foco em usabilidade.
