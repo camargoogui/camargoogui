@@ -17,7 +17,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, atualmente 
 
 Tenho me dedicado ao desenvolvimento de aplicações fullstack, com foco em tecnologias modernas de **back-end, front-end, mobile e inteligência artificial**. Estou sempre buscando aplicar meus conhecimentos em projetos práticos e explorar novas soluções.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-paes-camargo-903aa0323/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/camargoogui/)  
 
 ---
 
