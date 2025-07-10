@@ -91,25 +91,37 @@ Tenho me dedicado ao desenvolvimento de aplicações fullstack, com foco em tecn
 
 ### 📌 Projetos em Destaque
 
-#### 📱 [Mobile - Challenge](https://github.com/camargoogui/Mobile---Challenge)  
-Aplicativo desenvolvido em **React Native + Expo**, com login, splash screen e navegação entre telas.  
-Projeto criado como desafio técnico para consolidar fundamentos de autenticação, navegação e boas práticas em aplicativos mobile.
+#### 📱 SafeZone – Sistema de Monitoramento de Enchentes (IoT + Mobile + API) [EM ANDAMENTO]
+2º Sprint de 4 do projeto da faculdade.
 
-#### 📱 [SafeZone Mobile – Monitoramento de Enchentes](https://github.com/camargoogui/SafeZone-Mobile)
-Versão mobile do sistema SafeZone, desenvolvida com React Native + Expo, que exibe em tempo real o status de alagamento de uma região com base em dados enviados por sensores IoT.
-Utiliza comunicação via MQTT, gráficos e indicadores visuais para informar o nível da água e possíveis alertas.
+Utilizei React Native consumindo API de .NET 8 e IoT com ESP32/MQTT para desenvolver um sistema de monitoramento de enchentes em tempo real, solucionando a ausência de alertas preventivos em áreas de risco. O projeto resultou em um aplicativo mobile funcional, API RESTful com arquitetura limpa e dashboard IoT em tempo real. 
+ Notas: 10 (Mobile), 7 (.NET), 10 (IoT)
+[Repositório Mobile](https://github.com/camargoogui/SafeZone-Mobile)
+[Repositório .NET](https://github.com/camargoogui/SafeZone-DotNet)
+[Repositório IoT](https://github.com/camargoogui/iot-safeZone)
 
-#### 🐾 [Adota Pet - Aplicativo de Adoção de Animais](https://github.com/camargoogui/PETS-MOBILE)
-Aplicativo mobile desenvolvido com **React Native + Expo**, que conecta pessoas interessadas em adotar com pets que precisam de um lar.  
-O app também fornece dicas de cuidado animal e informações sobre adoção responsável, com interface acessível e foco em usabilidade.
+[VÍDEO demonstração APP Mobile CRUD](https://www.youtube.com/watch?v=dLIv7c3L3ic)
+[Pitch IoT](https://www.youtube.com/watch?v=NAnsLPJlbDY)
 
-#### 🌱 [Futuro Limpo - Game Educativo Sustentável](https://github.com/camargoogui/futuro-limpo_GS)
-Jogo educacional desenvolvido em JavaScript, HTML e CSS com o objetivo de **ensinar boas práticas ambientais**.  
-Por meio de desafios e decisões interativas, o jogador aprende como reduzir impactos negativos no meio ambiente e promover um futuro mais limpo.
 
-#### 🛵 [Mottu Challenge 2025 – Mapeamento Inteligente de Motos](https://github.com/camargoogui/mottu-desafio)
-Sistema backend construído em **.NET 8**, voltado para o desafio técnico da Mottu.  
-Realiza o mapeamento inteligente de motos no pátio, com arquitetura limpa, integração com banco de dados e boas práticas REST para APIs organizadas e escaláveis.
+#### 📱 Mottu Challenge 2025 – Mapeamento Inteligente de Motos  
+Utilizei React Native, .NET 8 e IoT com ESP32/MQTT para criar uma solução de estacionamento inteligente de motos, resolvendo o problema da desorganização no controle e localização dos veículos. A solução contou com um aplicativo mobile, API completa e dashboard com sensores simulados. 
+ Notas: 10 (Mobile), 9,5 (.NET), 10 (IoT)
+[Repositório Mobile](https://github.com/camargoogui/Mobile---Challenge)
+[Repositório .NET](https://github.com/camargoogui/DOTNET---Challenge)
+[Repositório IoT](https://github.com/camargoogui/iot-estacionamento-motos)
+
+
+#### 🌱 Futuro Limpo – Plataforma de Conscientização Ambiental
+Utilizei Next.js, Tailwind CSS e Google Maps API para criar uma plataforma que incentiva o descarte correto de lixo eletrônico, conectando usuários a pontos de coleta. O projeto resultou em um site responsivo e funcional com foco em educação ambiental. 
+[Repositório Futuro Limpo](https://github.com/camargoogui/futuro-limpo_GS)
+[Site Vercel](https://futuro-limpo.vercel.app/)
+
+
+#### 🐾 Pets Mobile – Aplicativo de Adoção de Pets
+Utilizei React Native com Expo para desenvolver um aplicativo que conecta ONGs a possíveis adotantes, solucionando a baixa visibilidade de animais disponíveis para adoção. O projeto resultou em um app funcional, com busca, listagem e visualização de detalhes dos pets. 
+ Nota: 10 
+[Repositório Pets Mobile](https://github.com/camargoogui/PETS-MOBILE)
 
 ---
 
