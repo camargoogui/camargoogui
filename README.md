@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/camargoogui">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Estudante+de+ADS+na+FIAP;Foco+em+Fullstack+e+Mobile;Explorando+IA%2C+.NET+e+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Estudante+de+ADS+na+FIAP;Desenvolvedor+Fullstack" alt="Typing SVG" />
   </a>
 </p>
 
