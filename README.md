@@ -55,24 +55,6 @@ Tenho me dedicado ao desenvolvimento de aplicações fullstack, com foco em tecn
 
 ---
 
-### 🎓 Já estudei disciplinas como
-
-- ARTIFICIAL INTELLIGENCE & CHATBOT  
-- BUILDING RELATIONAL DATABASE  
-- COMPUTATIONAL THINKING USING PYTHON  
-- DOMAIN DRIVEN DESIGN USING JAVA  
-- FRONT-END DESIGN ENGINEERING  
-- SOFTWARE ENGINEERING AND BUSINESS MODEL  
-- ADVANCED BUSINESS DEVELOPMENT WITH .NET  
-- COMPLIANCE, QUALITY ASSURANCE & TESTS  
-- DEVOPS TOOLS & CLOUD COMPUTING  
-- DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA  
-- JAVA ADVANCED  
-- MASTERING RELATIONAL AND NON-RELATIONAL DATABASE  
-- MOBILE APPLICATION DEVELOPMENT
-
----
-
 ### 📌 Projetos em Destaque
 
 #### 📱 SafeZone – Sistema de Monitoramento de Enchentes (IoT + Mobile + API) [EM ANDAMENTO]
@@ -96,6 +78,24 @@ Utilizei Next.js, Tailwind CSS e Google Maps API para criar uma plataforma que i
 Utilizei React Native com Expo para desenvolver um aplicativo que conecta ONGs a possíveis adotantes, solucionando a baixa visibilidade de animais disponíveis para adoção.  
 Nota: 10  
 [Repositório Pets Mobile](https://github.com/camargoogui/PETS-MOBILE)
+
+---
+
+### 🎓 Já estudei disciplinas como
+
+- ARTIFICIAL INTELLIGENCE & CHATBOT  
+- BUILDING RELATIONAL DATABASE  
+- COMPUTATIONAL THINKING USING PYTHON  
+- DOMAIN DRIVEN DESIGN USING JAVA  
+- FRONT-END DESIGN ENGINEERING  
+- SOFTWARE ENGINEERING AND BUSINESS MODEL  
+- ADVANCED BUSINESS DEVELOPMENT WITH .NET  
+- COMPLIANCE, QUALITY ASSURANCE & TESTS  
+- DEVOPS TOOLS & CLOUD COMPUTING  
+- DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA  
+- JAVA ADVANCED  
+- MASTERING RELATIONAL AND NON-RELATIONAL DATABASE  
+- MOBILE APPLICATION DEVELOPMENT
 
 ---
 
